@@ -1,4 +1,4 @@
-![image](https://github.com/09Ghost90/Programming-Challenges-Solutions/assets/128044787/1fa6bdac-0444-43d3-a22c-c4b98053c054)# Programming-Challenges-Solutions
+# Programming-Challenges-Solutions
 Soluções para problemas de programação competitiva do Beecrowd e outras plataformas. Categorizados por dificuldade e implementados em diversas linguagens como C++, Python, HTML5, CSS, JS. Explore técnicas avançadas de algoritmos e estruturas de dados!
 
 Repositório de Resolução de Problemas de Programação Competitiva
@@ -19,6 +19,8 @@ Categorias de Problemas:
 Como Navegar:
 
   Cada categoria contém problemas com diferentes níveis de dificuldade, variando de 1 a 10. Os problemas estão organizados dentro de diretórios correspondentes a cada categoria. Cada diretório pode conter múltiplos arquivos de solução em diferentes linguagens de programação.
+
+![image](https://github.com/09Ghost90/Programming-Challenges-Solutions/assets/128044787/1fa6bdac-0444-43d3-a22c-c4b98053c054)
 
   Contribuições:
 
